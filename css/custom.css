@@ -1,0 +1,23 @@
+sup, .help-block{
+color:red
+}
+.help-block{
+	
+}
+textarea{
+	resize:none;
+}
+th{
+color:#4d4d4d;
+	font-weight: 500;
+}
+td{
+	color: #4d4d4d;
+	font-weight: 400;
+}
+.card{opacity:0.98}
+body{
+	background-image:url(../assets/images/doodle-collab-coloring-page.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
